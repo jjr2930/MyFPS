@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLibTest.CSharp.Plugins", "JLibTest.CSharp.Plugins.csproj", "{6BFDE172-0875-0BF6-BCE0-416538E42BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLibTest.CSharp", "JLibTest.CSharp.csproj", "{EFD4596E-9309-CBEB-4016-37B309BC96FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JLibTest.CSharp.Editor", "JLibTest.CSharp.Editor.csproj", "{68F50BA0-84D0-A787-62CE-95EABFB95F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFDE172-0875-0BF6-BCE0-416538E42BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFDE172-0875-0BF6-BCE0-416538E42BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFDE172-0875-0BF6-BCE0-416538E42BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFDE172-0875-0BF6-BCE0-416538E42BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD4596E-9309-CBEB-4016-37B309BC96FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD4596E-9309-CBEB-4016-37B309BC96FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD4596E-9309-CBEB-4016-37B309BC96FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD4596E-9309-CBEB-4016-37B309BC96FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F50BA0-84D0-A787-62CE-95EABFB95F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F50BA0-84D0-A787-62CE-95EABFB95F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F50BA0-84D0-A787-62CE-95EABFB95F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F50BA0-84D0-A787-62CE-95EABFB95F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
